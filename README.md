@@ -23,8 +23,11 @@ This model uses all available variables for decision-making.
 
 **CNN_filtered**: Similar to the CNN model above, but only using the most relevant features identified by the DecisionTree algorithm.
 
+_**Note**: CNN and CNN_filtered models are, in fact, hybrid models._
+
 #
 
-### History
+### Development History
 
-All the main changes while developing the models are available on this repository (pre-processing, fine-tuning, addition of rules, etc.). The history of the models include all its results.
+This repository keeps a record of all the main changes made throughout the development of the models (pre-processing, fine-tuning, addition of rules, etc.), including the results of the models at each stage.
+
