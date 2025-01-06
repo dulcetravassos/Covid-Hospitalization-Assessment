@@ -27,4 +27,4 @@ This model uses all available variables for decision-making.
 
 ### History
 
-All the main changes while developing the models are available on this repository. The history of the models include all its results.
+All the main changes while developing the models are available on this repository (pre-processing, fine-tuning, addition of rules, etc.). The history of the models include all its results.
