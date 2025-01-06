@@ -22,3 +22,9 @@ Data provided by the Professor.
 This model uses all available variables for decision-making.
 
 **CNN_filtered**: Similar to the CNN model above, but only using the most relevant features identified by the DecisionTree algorithm.
+
+#
+
+### History
+
+All the main changes while developing the models are available on this repository. The history of the models include all its results.
