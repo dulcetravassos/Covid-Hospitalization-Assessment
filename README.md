@@ -31,3 +31,5 @@ _**Note**: CNN and CNN_filtered models are, in fact, hybrid models._
 
 This repository keeps a record of all the main changes made throughout the development of the models (pre-processing, fine-tuning, addition of rules, etc.), including the results of the models at each stage.
 
+The final models and results before applying the rule are also available on the "before_rule" folder in this repository.
+
